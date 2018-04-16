@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zumba
+Comment=Zumba P2P Cryptocurrency
+Exec=zumba-qt %u
+Terminal=false
+Type=Application
+Icon=zumba128
+MimeType=x-scheme-handler/zumba;
+Categories=Office;Finance;
+Name[en_US]=zumba-qt.desktop.desktop

@@ -1,0 +1,6 @@
+usr/local/bin/zumba-qt usr/bin
+share/pixmaps/zumba32.xpm usr/share/pixmaps
+share/pixmaps/zumba16.xpm usr/share/pixmaps
+share/pixmaps/zumba128.png usr/share/pixmaps
+debian/zumba-qt.desktop usr/share/applications
+debian/zumba-qt.protocol usr/share/kde4/services/

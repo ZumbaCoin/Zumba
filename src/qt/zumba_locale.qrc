@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/zumba_bg.qm</file>
+        <file alias="de">locale/zumba_de.qm</file>
+        <file alias="en">locale/zumba_en.qm</file>
+        <file alias="es">locale/zumba_es.qm</file>
+        <file alias="fi">locale/zumba_fi.qm</file>
+        <file alias="fr">locale/zumba_fr.qm</file>
+        <file alias="it">locale/zumba_it.qm</file>
+        <file alias="ja">locale/zumba_ja.qm</file>
+        <file alias="pl">locale/zumba_pl.qm</file>
+        <file alias="pt">locale/zumba_pt.qm</file>
+        <file alias="ru">locale/zumba_ru.qm</file>
+        <file alias="sk">locale/zumba_sk.qm</file>
+        <file alias="sv">locale/zumba_sv.qm</file>
+        <file alias="vi">locale/zumba_vi.qm</file>
+        <file alias="zh_CN">locale/zumba_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zumba_zh_TW.qm</file>
+    </qresource>
+</RCC>

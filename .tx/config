@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[zumba.qt-translation-012x]
+file_filter = src/qt/locale/zumba_<lang>.ts
+source_file = src/qt/locale/zumba_en.ts
+source_lang = en
